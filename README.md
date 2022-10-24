@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harinishankarareddy
-- 👀 I’m interested in internships
-- 🌱 I’m currently learning Fullstack webdevelopment
+- 👀 I’m interested in TestEngineer Job/Internship
+- 🌱 QA Engineer Trainee @SITA
 - 📫 How to reach me-harini.gsr@gmailcom
 
 <!---
