@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @harinishankarareddy
-- 👀 I’m interested in TestEngineer Job/Internship
 - 🌱 QA Engineer Trainee @SITA
 - 📫 How to reach me-harini.gsr@gmailcom
 
