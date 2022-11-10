@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harinishankarareddy
+- 👋 Hi, I’m @hariniBhaskar
 - 🌱 QA Engineer Trainee @SITA
 - 📫 How to reach me-harini.gsr@gmailcom
 
