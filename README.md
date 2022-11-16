@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hariniBhaskar
-- 🌱 QA Engineer Trainee @SITA
+- 🌱 QA Engineer @SITA
 - 📫 How to reach me-harini.gsr@gmailcom
 
 <!---
